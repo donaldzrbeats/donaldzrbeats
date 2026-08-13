@@ -19,12 +19,8 @@ Web3 & Blockchain Development
 
   ### 📊 My GitHub Stats
 
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=donaldzrbeats&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="DonaldzrBeats' GitHub Stats" />
+  ![DonaldzrBeats' GitHub Stats](https://github-readme-stats.vercel.app/api?username=donaldzrbeats&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-  <br />
-
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldzrbeats&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldzrbeats&layout=compact&theme=dark&hide_border=true)
 
 </div>
