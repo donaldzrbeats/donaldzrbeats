@@ -14,13 +14,21 @@ Releases instrumentals and type beats across platforms like YouTube and Instagra
 Web3 & Blockchain Development
 
 
-<!-- GitHub Readme Stats -->
+# 📊 My GitHub Stats & Activity
+
 <div align="center">
 
-  ### 📊 My GitHub Stats
+  <!-- Streak Stats -->
+  ![DonaldzrBeats' GitHub Streak](https://streak-stats.demolab.com/?user=donaldzrbeats&theme=dark&hide_border=true)
 
- # 📊 My GitHub Stats
+  <br />
 
-![DonaldzrBeats' Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=donaldzrbeats&theme=dark&hide_border=true)
+  <!-- General Stats -->
+  ![DonaldzrBeats' GitHub Stats](https://github-readme-stats.rs.gov.hu/api?username=donaldzrbeats&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+  <br />
+
+  <!-- Top Languages -->
+  ![Most Used Languages](https://github-readme-stats.rs.gov.hu/api/top-langs/?username=donaldzrbeats&layout=compact&theme=dark&hide_border=true)
 
 </div>
