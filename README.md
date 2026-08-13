@@ -1,16 +1,14 @@
-## Hi there 👋
+Music Producer & Web3 Builder
 
-<!--
-**donaldzrbeats/donaldzrbeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A music producer turned Web3 developer, bridging the worlds of sound and smart contract technology. Known as DonaldzrBeats in the music scene and operating on-chain under the Basename donaldzrbeats.base.eth.
 
-Here are some ideas to get you started:
+Online Activity & Presence
+Music Production:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Active music producer specializing in hip-hop, trap, and drill beats.
+
+Notable production credits in the Czech hip-hop scene, including tracks for prominent artists like Sergei Barracuda, Hard Rico, and Renne Dang (e.g., "Čas na změnu", "Rico & Sergei").
+
+Releases instrumentals and type beats across platforms like YouTube and Instagram (@donaldzrbeats).
+
+Web3 & Blockchain Development
