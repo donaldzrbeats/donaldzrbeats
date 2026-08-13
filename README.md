@@ -12,3 +12,19 @@ Notable production credits in the Czech hip-hop scene, including tracks for prom
 Releases instrumentals and type beats across platforms like YouTube and Instagram (@donaldzrbeats).
 
 Web3 & Blockchain Development
+
+
+<!-- GitHub Readme Stats -->
+<div align="center">
+
+  ### 📊 My GitHub Stats
+
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=donaldzrbeats&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="DonaldzrBeats' GitHub Stats" />
+
+  <br />
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldzrbeats&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
