@@ -1,19 +1,6 @@
-# 🎵 DonaldzrBeats | Music Producer & Web3 Builder
+# 🎵 DonaldzrBeats |
 
-A music producer turned Web3 developer, bridging sound and smart contract technology. Known as **DonaldzrBeats** in the music scene and operating on-chain under **donaldzrbeats.base.eth**.
-
----
-
-### 📌 Online Activity & Presence
-
-* **Music Production:**
-  * Active music producer specializing in hip-hop, trap, and drill beats.
-  * Production credits in the Czech hip-hop scene for artists like Sergei Barracuda, Hard Rico, and Renne Dang (*"Čas na změnu"*, *"Rico & Sergei"*).
-  * Instrumentals and type beats on Instagram ([@donaldzrbeats](https://instagram.com/donaldzrbeats)).
-
-* **Web3 & Blockchain Development:**
-  * Building on **Base**, EVM chains, and smart contracts.
-  * Experience with OnchainKit, Wagmi, Viem, Next.js, and TypeScript.
+Instagram ([@donaldzrbeats](https://instagram.com/donaldzrbeats)).
 
 ---
 
